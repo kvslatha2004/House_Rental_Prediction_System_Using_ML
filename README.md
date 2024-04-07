@@ -1,3 +1,2 @@
-Code , 
-Dataset , 
-Explanation about project and code
+House_Rental_Prediction_System
+
